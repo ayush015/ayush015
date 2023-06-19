@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ayush015
 - 👀 I’m interested in Javascript 
-- 🌱 I’m currently learning Java
 - 📫 How to reach me email: ayushsri1599@gmail.com
 
 <!---
